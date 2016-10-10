@@ -1,0 +1,9 @@
+{
+   "name": "lavoweb/dnd-patchindexurl",
+   "type": "magento-module",
+   "description": "Dnd_Patchindexurl",
+   "homepage": "https://github.com/AurelienLavorel/Dnd_Patchindexurl",
+   "require": {
+      "magento-hackathon/magento-composer-installer": "*"
+   }
+}
